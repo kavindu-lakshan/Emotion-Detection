@@ -1,0 +1,14 @@
+EMOTIONS
+Neutral
+Angry
+Disgust
+Disgust
+Neutral
+Disgust
+Angry
+Angry
+Neutral
+Angry
+Neutral
+Neutral
+Neutral
